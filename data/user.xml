@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<elements>
+    <element id="登录链接">
+        <by>BY.lINK_TEXT</by>
+        <content>登录</content>
+    </element>
+    <element id="1000002">
+        <elementname>Admin2</elementname>
+        <email>admin2@live.cn</email>
+        <age>22</age>
+        <sex>男</sex>
+    </element>
+    <element id="1000003">
+        <elementname>Admin3</elementname>
+        <email>admin3@live.cn</email>
+        <age>27</age>
+        <sex>男</sex>
+    </element>
+    <element id="1000004">
+        <elementname>Admin4</elementname>
+        <email>admin4@live.cn</email>
+        <age>25</age>
+        <sex>女</sex>
+    </element>
+    <element id="1000005">
+        <elementname>Admin5</elementname>
+        <email>admin5@live.cn</email>
+        <age>20</age>
+        <sex>男</sex>
+    </element>
+    <element id="1000006">
+        <elementname>Admin6</elementname>
+        <email>admin6@live.cn</email>
+        <age>23</age>
+        <sex>女</sex>
+    </element>
+</elements>

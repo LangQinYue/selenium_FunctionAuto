@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<elements>
+    <element id="登录链接" by="lINK_TEXT" content="登录"/>
+	<element id="登录按钮" by="XPATH" content="//*[@id='TANGRAM__PSP_8__submit']"/>
+	<element id="关闭登录框" by="XPATH" content="//*[@id='TANGRAM__PSP_2__closeBtn']"/>
+	
+	
+</elements>
