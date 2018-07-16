@@ -1,0 +1,2 @@
+# selenium_FunctionAuto
+基于python+selenium功能自动化框架
